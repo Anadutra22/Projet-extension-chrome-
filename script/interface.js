@@ -12,6 +12,7 @@ var ul = document.createElement('ul'),
     current = 'NoFilter',
     vision = {
         NoFilter: '',
+        'HueRotate': '6%',
         'TrueColor': '6%',
     }
 
