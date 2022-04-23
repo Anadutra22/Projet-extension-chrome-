@@ -14,6 +14,7 @@ var ul = document.createElement('ul'),
         NoFilter: '',
         'HueRotate': '6%',
         'TrueColor': '6%',
+        "BlackWhite": '6%',
     }
 
 Object.keys(vision).forEach(function (el) {
