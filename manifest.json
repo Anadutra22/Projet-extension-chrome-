@@ -4,7 +4,7 @@
         "manifest_version": 2,
     
         "name": "Clarify",
-        "description": "A chrome extension to make websites more accessible for all users.",
+        "description": "A chrome extension to make websites color blind accessible for all users.",
         "version": "1.0",
 
 
