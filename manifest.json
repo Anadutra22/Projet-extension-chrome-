@@ -1,0 +1,46 @@
+{
+    "update_url": "https://clients2.google.com/service/update2/crx",
+    
+        "manifest_version": 2,
+    
+        "name": "Clarify",
+        "description": "A chrome extension to make websites more accessible for all users.",
+        "version": "1.0",
+        
+        "icons": {
+            "128": "icons/img_large2.png",
+            "48": "icons/img_large2_small.png"
+        },
+    
+            
+        "browser_action": {
+            "default_title": "Clarify",
+            "default_popup": "popup.html",
+            "default_icon": {
+                "19": "icons/img_large2.png",
+                "38": "icons/img_large2_small.png"
+            }
+        },
+        
+        
+        
+        "web_accessible_resources": [
+            "icons/filters.svg"
+        ],
+        
+        "content_scripts": [
+            {
+                "matches": ["<all_urls>"],
+                "js": ["js/filters.js"],
+                "css": []
+                
+            }
+        ],
+    
+        "permissions": [
+            "tabs",
+            "http://*/*",
+            "https://*/*",
+            "activeTab"
+        ]
+    }
