@@ -3,7 +3,17 @@
 
 Our aim is to make the web more accessible for all users.
 
-Technologies Used:
+### Technologies Used:
 * JavaScript
 * CSS
 * HTML
+
+### Commonly Used Sources:
+* Fresh-eyes: [https://github.com/fresh-eyes/fresh-eyes](https://github.com/fresh-eyes/fresh-eyes)
+
+
+### Contributors:
+* Riju Abraham
+* Jason Bernal
+* Justin Lee
+* Connor Murphy
