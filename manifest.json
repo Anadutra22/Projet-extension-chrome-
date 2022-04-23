@@ -12,8 +12,8 @@
 
         
         "icons": {
-            "128": "icons/img_large2.jpg",
-            "48": "icons/img_large2_small.jpg"
+            "128": "icons/img_large2.png",
+            "48": "icons/img_large2_small.png"
         },
     
             
@@ -21,8 +21,8 @@
             "default_title": "Clarify",
             "default_popup": "interface.html",
             "default_icon": {
-                "19": "icons/img_large_19.jpg",
-                "38": "icons/img_large_38.jpg"
+                "19": "icons/img_large_19.png",
+                "38": "icons/img_large_38.png"
             }
         },
         

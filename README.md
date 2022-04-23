@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img src="icons/img_large.jpg" alt="Clarify" width="300" height="auto">
+    <img src="icons/img_large.png" alt="Clarify" width="300" height="auto">
   </a>
   <h3 align="center">Clarify</h3>
   <p align="center">
