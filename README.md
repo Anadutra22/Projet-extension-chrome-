@@ -38,6 +38,8 @@ Our aim is to make the web more accessible for all users.
 
 ## Sources
 * Create a Google Chrome Extension (For Beginners): [https://youtu.be/uV4L-wcnK3Y](https://youtu.be/uV4L-wcnK3Y)
+* SVG: Scalable Vector Graphics: [https://developer.mozilla.org/en-US/docs/Web/SVG/Element/feColorMatrix](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/feColorMatrix)
+* Convert Images To Black And White With CSS: [http://thenewcode.com/532/Convert-Images-To-Black-And-White-With-CSS](http://thenewcode.com/532/Convert-Images-To-Black-And-White-With-CSS)
 * Fresh-eyes: [https://github.com/fresh-eyes/fresh-eyes](https://github.com/fresh-eyes/fresh-eyes)
 
 ### Images
