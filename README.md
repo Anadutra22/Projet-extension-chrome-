@@ -35,6 +35,10 @@ Our aim is to make the web more accessible for all users. The extension performs
 * HTML
 
 ## Usage
+![Pinning Demo gif](icons/pinning.gif)
+
+![Interface Demo gif](icons/interface.gif)
+
 
 ## Sources
 * Create a Google Chrome Extension (For Beginners): [https://youtu.be/uV4L-wcnK3Y](https://youtu.be/uV4L-wcnK3Y)
