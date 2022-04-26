@@ -14,6 +14,9 @@ var ul = document.createElement('ul'),
         NoFilter: '',
         'HueRotate': '6%',
         'TrueColor': '6%',
+        'Protanopia-Red Vision': '6%',
+        'Deuteranopia-Green Vision': '6%',
+        'Tritanopia-Blue Vision': '6%',
         "BlackWhite": '6%',
     }
 

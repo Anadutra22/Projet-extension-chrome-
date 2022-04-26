@@ -27,7 +27,7 @@
 
 ## About the Project
 
-Our aim is to make the web more accessible for all users.
+Our aim is to make the web more accessible for all users. The extension performs a process known as Daltonization to help those with color vision deficiencies to be able to distinguish a range of detail they are typically not able to perceive.
 
 ### Built With:
 * JavaScript
@@ -40,6 +40,8 @@ Our aim is to make the web more accessible for all users.
 * Create a Google Chrome Extension (For Beginners): [https://youtu.be/uV4L-wcnK3Y](https://youtu.be/uV4L-wcnK3Y)
 * SVG: Scalable Vector Graphics: [https://developer.mozilla.org/en-US/docs/Web/SVG/Element/feColorMatrix](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/feColorMatrix)
 * Convert Images To Black And White With CSS: [http://thenewcode.com/532/Convert-Images-To-Black-And-White-With-CSS](http://thenewcode.com/532/Convert-Images-To-Black-And-White-With-CSS)
+* http://www.daltonize.org/p/about.html
+* https://gitlab.com/skingrapher/colorblind-filters/-/blob/master/colorblind-filters.svg
 * Fresh-eyes: [https://github.com/fresh-eyes/fresh-eyes](https://github.com/fresh-eyes/fresh-eyes)
 
 ### Images
