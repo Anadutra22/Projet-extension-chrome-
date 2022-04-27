@@ -35,9 +35,11 @@ Our aim is to make the web more accessible for all users. The extension performs
 * HTML
 
 ## Usage
-![Pinning Demo gif](icons/pinning.gif)
+<!-- ![Pinning Demo gif](icons/pinning.gif){ width=50% } -->
+<img src="icons/pinning.gif" width="25%" height="auto">
 
-![Interface Demo gif](icons/interface.gif)
+<!-- ![Interface Demo gif](icons/interface.gif){ width=50% } -->
+<img src="icons/interface.gif">
 
 
 ## Sources
