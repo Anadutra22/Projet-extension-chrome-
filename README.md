@@ -55,9 +55,3 @@ Our aim is to make the web more accessible for all users. The extension performs
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contributors:
-* Riju Abraham
-* Jason Bernal
-* Justin Lee
-* Connor Murphy
