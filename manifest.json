@@ -1,11 +1,16 @@
 {
-        "manifest_version": 3,
-        "name": "Cores",
-        "description": "A chrome extension to make websites color blind accessible for all users.",
-        "version": "1.0",
-
+    
+    "name": "Cores",
+    "version": "1.0.0",
+    "description": "A chrome extension to make websites color blind accessible for all users",
+    "manifest_version": 3,
+    "author": "AnaDutra",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Cores"
+    },
         
-        "icons": {
+    "icons": {
             "128": "icons/img_large2.png",
             "48": "icons/img_large2_small.png"
         },
